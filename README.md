@@ -6,3 +6,6 @@ Best Hyperparameters:
     Dense Neurons: 512
     Dropout: 0.5
     Final Test Accuracy: 55.73%
+
+parameterImportance:
+<img width="722" height="508" alt="image" src="https://github.com/user-attachments/assets/dce49bd4-c946-442d-bff3-628985f530a1" />
