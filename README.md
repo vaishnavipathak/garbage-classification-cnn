@@ -9,6 +9,8 @@ Best Hyperparameters:
 
 parameterImportance:
 <img width="722" height="508" alt="image" src="https://github.com/user-attachments/assets/dce49bd4-c946-442d-bff3-628985f530a1" />
+Accuracy vs : created plot
+<img width="709" height="509" alt="image" src="https://github.com/user-attachments/assets/95a2a504-2545-4e8c-bf05-96fca3b66606" />
 
 
 Final 10*3 grid:
